@@ -7,11 +7,11 @@
  Install following packages using pip in terminal:
  (this package is `vital` to work this cli-app)
 
-* pip install azure-storage-file
+* `pip install azure-storage-file`
 
 ### Step2:
 
-> Edit config.json file and put your Azure StorageAccount name, AccessKey->Key1 and FileShare(SMB) name in it.
+> Edit config.json file and put your Azure `StorageAccount` name, AccessKey->`Key1` and `FileShare`(SMB) name in it.
 
 ```json
 {
@@ -24,12 +24,19 @@
 
 ```
 
-Tutorial Link:
-[https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share)
+Links:
 
 Azure Portal:
 [https://portal.azure.com/](https://portal.azure.com/)
 
+Microsoft Azure Storage SDK for Python:
+[https://github.com/Azure/azure-storage-python](https://github.com/Azure/azure-storage-python)
+
+How to create FileShare and StorageAccount:
+[https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share)
+
+Learn how to develop Python applications and services that use Azure Files to store file data.
+[https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/storage/files/storage-python-how-to-use-file-storage.md](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/storage/files/storage-python-how-to-use-file-storage.md)
 
 # Usage:
 
