@@ -26,6 +26,7 @@
 
 Tutorial Link:
 [https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share)
+
 Azure Portal:
 [https://portal.azure.com/](https://portal.azure.com/)
 
