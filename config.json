@@ -1,0 +1,7 @@
+{
+  "configs": {
+    "account_name": "YourAzureStorageAccountName",
+    "account_key": "Key1 from AccessKey related to your StorageAccount",
+    "file_share": "Name of your FileShare(Container) in StorageAccount"
+  }
+}
